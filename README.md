@@ -1,6 +1,6 @@
 # Mistral LLM Chatbot
 
-![image](https://github.com/pik1989/MistralLLM-Chatbot/assets/34673684/0872656a-1716-4a09-a9d1-313d83cf3eb5)
+![image](https://github.com/Noor-e-Bilal/MistralLLM-Chatbot/assets/34673684/0872656a-1716-4a09-a9d1-313d83cf3eb5)
 
 Mistral LLM is a language model developed by Mistral AI. It is a large language model designed to understand and generate human-like text. LLM stands for "Large Language Model," indicating its size and capabilities.
 
@@ -10,8 +10,8 @@ Mistral 7B is trained on a large amount of text data and can be used for a wide 
 
 In this repository, we have used Mistral 7B to create a LLM chatbot:
 
-![image](https://github.com/pik1989/MistralLLM-Chatbot/assets/34673684/85cfaf0f-9fab-4fb5-b7c4-8b6990fe8b45)
+![image](https://github.com/Noor-e-Bilal/MistralLLM-Chatbot/assets/34673684/85cfaf0f-9fab-4fb5-b7c4-8b6990fe8b45)
 
 #### Code by: 
 
-[Vasanth P](https://www.linkedin.com/in/vasanthengineer4949/)<br>
+[Noor-e-Bilal](https://www.linkedin.com/in/m-noor-e-bilal)<br>
